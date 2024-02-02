@@ -1,0 +1,3 @@
+a.NOMBRE: Laura 
+b. APELLIDO: Betancur sanjuan
+c. FECHA_DE_NACIMIENTO: Su fecha de nacimiento en formato 2004-08-31.
